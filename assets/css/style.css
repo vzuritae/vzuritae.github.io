@@ -1,0 +1,30 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    background-image: url(../img/bg_image_cv.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#educación {
+    background-color: #000000;
+}
+
+#portafolio {
+    background-color: #964a0c;
+}
+
+#portafolio a:visited {
+    color: #ffffff;
+}
+
+#repositorios a:visited {
+    color: #000000;
+}
+
+#footer {
+    background-color: #964a0c;
+}

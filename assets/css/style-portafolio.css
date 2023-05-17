@@ -1,0 +1,19 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    background-image: url(../img/bg_image_portafolio.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+footer {
+    background-color: #000000;
+}
+
+footer a:visited {
+    color: #ffffff;
+}
+
